@@ -1,4 +1,15 @@
-## Introduction: Why we chose this topic
+
+
+## Introduction
+
+In this notebook we will show you a simple Cournot Model with indirect network effects. We use Python to analyse and solve the formulas. More specific, we will look into the social media market, and the results of network effects on this market. For this analysis we adopt the research method by Prufer and Argenton, Search Engine Competition with Network Externalities. (create link) In their research, Prufer and Argenton look into the effects of network externalities on the Search engine market. We use this method to analyse the Social media market.
+
+### Our research question
+
+Can we use the model to predict competition in the Social media market, by comparing market shares of the biggest competitiors from 2011 onwards?
+
+![$$ \alpha * 2 $$]
+
 
 ### A short introduction on why our topic is interesting
 
@@ -31,18 +42,3 @@ what you find and elements on which you need additional information. To increase
 refer to the conclusion, create a link to it so that the reader can quickly glance what you have done and go back to where she/he 
 was reading. For this to work, you need to export the notebook to html. You do not have to do this, but it will impress us if you 
 manage it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
